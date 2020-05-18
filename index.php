@@ -23,11 +23,8 @@
     <a href="#work" class="w3-bar-item w3-button w3-padding-large w3-hide-small">WORK</a>
     <a href="#contact" class="w3-bar-item w3-button w3-padding-large w3-hide-small">CONTACT</a>
     <div class="w3-dropdown-hover w3-hide-small">
-      <button class="w3-padding-large w3-button" title="More">MORE <i class="fa fa-caret-down"></i></button>     
+           
       <div class="w3-dropdown-content w3-bar-block w3-card-4">
-        <a href="#" class="w3-bar-item w3-button">Merchandise</a>
-        <a href="#" class="w3-bar-item w3-button">Extras</a>
-        <a href="#" class="w3-bar-item w3-button">Media</a>
       </div>
     </div>
     <a href="javascript:void(0)" class="w3-padding-large w3-hover-red w3-hide-small w3-right"><i class="fa fa-search"></i></a>
@@ -46,21 +43,21 @@
 <div class="w3-content" w3-white style="max-width: 1800px; margin-top: 46px; background-color: #FFF;">
 
   <!-- Automatic Slideshow Images -->
-  <div class="mySlides w3-display-container w3-center">
+  <div class="mySlides w3-display-container w3-center w3-card-4">
     <img src="img/bkg1.jpg" style="width:100%">
     <div class="w3-display-bottommiddle w3-container w3-text-white w3-padding-32 w3-hide-small">
       <h3>Beginning</h3>
       <p><b>Still Green</b></p>   
     </div>
   </div>
-  <div class="mySlides w3-display-container w3-center">
+  <div class="mySlides w3-display-container w3-center w3-card-4">
     <img src="img/bkg2.jpg" style="width:100%">
     <div class="w3-display-bottommiddle w3-container w3-text-white w3-padding-32 w3-hide-small">
       <h3>In the swing</h3>
       <p><b>Hang in there.</b></p>    
     </div>
   </div>
-  <div class="mySlides w3-display-container w3-center">
+  <div class="mySlides w3-display-container w3-center w3-card-4">
     <img src="img/bkg3.jpg" style="width:100%">
     <div class="w3-display-bottommiddle w3-container w3-text-white w3-padding-32 w3-hide-small">
       <h3>Looking Forward</h3>
@@ -94,22 +91,22 @@
         <div class="w3-row w3-padding-55">
       <div class="w3-third">
         <p>Study!</p>
-        <img src="img/msw.jpg" class="w3-round w3-margin-bottom" alt="OneNote" style="width:30%">
+        <img src="img/msw.png" class="w3-round w3-margin-bottom" alt="MS Word" style="width:25%">
       </div>
       <div class="w3-third">
         <p>Study!</p>
-        <img src="img/msp.jpg" class="w3-round w3-margin-bottom" alt="GoSkills" style="width:30%">
+        <img src="img/msp.png" class="w3-round w3-margin-bottom" alt="PowerPoint" style="width:25%">
       </div>
       <div class="w3-third">
         <p>Study!</p>
-        <img src="img/mse.jpg" class="w3-round" alt="Teams" style="width:30%">
+        <img src="img/mse.png" class="w3-round" alt="Excel" style="width:25%">
       </div>
     </div>
     <p class="w3-justify">  April 27th 2020 was the deadline for the completion of the microsoft focused studies and April 30th for the submittal of the SOW.</p>
     <p class="w3-justify">I chose Web Design and Development as my project.  For the purpose of the project I would be viewing web design/development as a  continuum from web &ldquo;content&rdquo; and front end coding to back end (server-side)  programing. The project would focus on increasing fluency in front end coding  skills including HTML, CSS and javaScript and then move on towards introducing further  web functionality via back end programing such as PHP, Python and Ruby. </p>
   </div>
 <!-- Container (Work Section) -->
-<div class="w3-content w3-container w3-padding-64" id="work">
+<div class="w3-content w3-container w3-padding-64 w3-card-4" id="work">
   <h2 class="w3-center">MY WORK</h2>
   <p class="w3-center"><em>While you have been looking at my work this whole time, here are some of the things that go on at the shop(s)..</em></p><br>
 
@@ -135,7 +132,7 @@
             <div class="w3-row w3-margin-bottom">
               <div class="w3-col l2 m3">
                 <img src="img/inf.jpg" style="width:130px;">
-               </div>
+              </div>
                <div class="w3-col l10 m9">
                 <h4>STUDIES Products -  <span class="w3-opacity w3-medium">mid - May</span></h4>
                 <p class="w3-justify"> So, this is a product in progress. It is what I have to show so far. Creating a website can truly be a multi-layered venture. This site is coded to be flexible and work better on handheld devices. Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.</p>
@@ -232,7 +229,7 @@
     <p class="w3-opacity w3-center"><i>Drop a note!</i></p>
     <div class="w3-row w3-padding-32">
       <div class="w3-col m6 w3-large w3-margin-bottom">
-        <i class="fa fa-map-marker" style="width:30px"></i> Southwick, Ma, US<br>
+        <i class="fa fa-map-marker" style="width:30px"></i> 1 Whalley Way, Southwick, Ma<br>
         <i class="fa fa-phone" style="width:30px"></i> Phone: +00 151515<br>
         <i class="fa fa-envelope" style="width:30px"> </i> Email: mail@mail.com<br>
       </div>
@@ -251,32 +248,30 @@
         </form>
       </div>
     </div>
-   
-  </div><img src="img/bkg4.jpg" class="w3-image w3-greyscale-none" style="width:100%"> 
+    <div class="w3-row w3-padding-32"><div class="w3-large w3 w3-center w3-section">
+   		<a href="https://linkedin.com/company/whalley-computer-associates-inc/" target="_blank"><i class="fa fa-linkedin w3-hover-opacity"></i></a>
+        <a href="https://twitter.com/wcabiz" target="_blank"><i class="fa fa-twitter w3-hover-opacity"></i></a>
+    	<a href="https://www.youtube.com/channel/UCU2zvcVGXI_CGVqaZH-fi4w" target="_blank"><i class="fa fa-youtube w3-hover-opacity"></i></a>
+  	</div>
+</div>
   
 <!-- End Page Content -->
 </div>
 
 <!-- Image of location/map -->
-
-
+<img src="img/bkg4.jpg" class="w3-image w3-greyscale-0" style="width:100%">
 <!-- Footer -->
-<footer class="w3-center w3-black w3-padding-45 w3-opacity w3-hover-opacity-off">
-  <a href="#" class="back-to-top"><i class="fa fa-chevron-up"></i></a>
-	<div id="preloader"></div>
-  	<div class="w3-large w3-section">
-    	<a href="https://twitter.com/wcabiz" target="_blank"><i class="fa fa-twitter w3-hover-opacity"></i></a>
-   		<a href="https://linkedin.com/company/whalley-computer-associates-inc/" target="_blank"><i class="fa fa-linkedin w3-hover-opacity"></i></a>
-    	<a href="https://www.youtube.com/channel/UCU2zvcVGXI_CGVqaZH-fi4w" target="_blank"><i class="fa fa-youtube w3-hover-opacity"></i></a>
-  	</div>
-
-  <p>&copy; Vis Helland </p>
-
+<footer class="w3-container w3-black w3-padding-16">
+  <h3>STUDIES</h3>
+  
+  <div style="position:relative;bottom:55px;" class="w3-tooltip w3-right">
+    <span class="w3-text w3-theme-light w3-padding">Go To Top</span>&nbsp;   
+    <a class="w3-text-white" href="#"><span class="w3-xlarge">
+    <i class="fa fa-chevron-circle-up"></i></span></a>
+  </div>
+  <p>&copy;Vis Helland 2020</p>
 </footer>
-
-
-
-
+<!-- End footer -->
 <script>
 // Automatic Slideshow - change image every 4 seconds
 var myIndex = 0;
