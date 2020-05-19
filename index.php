@@ -174,7 +174,7 @@ While you have been looking at my work this whole time, here's  some of what goe
     <p class="w3-clear"></p>
           
           <!-- Example of comment field -->
-          <div id="demo3" style="display:">
+          <div id="demo3" style="display:none">
           <div class="w3-row-padding w3-center"><hr>
             <div class="w3-col m3"><img src="img/wah1.jpg" style="width:98%" onclick="onClick(this)" class="w3-hover-opacity" alt="Juggling elements of this website in the great and powerful Photoshop (and friends)"></div>
             <div class="w3-col m3"><img src="img/wfh.jpg" style="width:98%" onclick="onClick(this)" class="w3-hover-opacity" alt="Daily studies scene."></div>
