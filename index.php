@@ -103,7 +103,9 @@
       </div>
     </div>
     <p class="w3-justify">  April 27th 2020 was the deadline for the completion of the microsoft focused studies and April 30th for the submittal of the SOW.</p>
-    <p class="w3-justify">I chose Web Design and Development as my project.  For the purpose of the project I would be viewing web design/development as a  continuum from web &ldquo;content&rdquo; and front end coding to back end (server-side)  programing. The project would focus on increasing fluency in front end coding  skills including HTML, CSS and javaScript and then move on towards introducing further  web functionality via back end programing such as PHP, Python and Ruby. </p>
+    <p class="w3-justify">I proposed Web Design and Development as my project.  For the purpose of the project I would be viewing web design/development as a  continuum from web content and design and front end coding, to back end (server-side)  programing. The project would focus on increasing fluency in front end coding  skills including HTML, CSS and javaScript and then move on towards introducing further  web functionality via back end programing such as PHP, Python and Ruby. </p>
+    <p class="w3-justify">&nbsp;</p>
+    <p class="w3-justify"><hr></p>
   </div>
 <!-- Container (Work Section) -->
 <div class="w3-content w3-container w3-padding-64 w3-card-4" id="work">
@@ -115,33 +117,32 @@
              <div class="w3-row-padding w3-center w3-section">
               <div class="w3-row w3-margin-bottom"><hr>
               <div class="w3-col l2 m3">
-                <img src="img/cvn.jpg" style="width:130px;">
-              </div>
+                <img src="img/cvn.jpg" class="w3-round" style="width:130px;"></div>
               <div class="w3-col l10 m9">
                 <h4>STUDIES Preliminary - <span class="w3-opacity w3-medium">April</span></h4>
-                <p class="w3-justify"> Well, there's always obstacles, and yet, I don't believe I've experienced a challenge here quite like 2020's Covid-19 pandemic. It was in response to this threat that the STUDIES Program was launched. Prior to beginning STUDIES,  employees continued to work onsite to wrap up what needed to be done before joining in on the 'stay at home' order.</p>
+                  <p class="w3-justify"> Well, there's always obstacles, and yet, I don't believe I've experienced a challenge here quite like 2020's Covid-19 pandemic. It was in response to this threat that the STUDIES Program was launched. Prior to beginning STUDIES,  employees continued to work onsite to wrap up what needed to be done before joining in on the 'stay at home' order.</p>
               </div>
             </div>
              <div class="w3-row w3-margin-bottom">
-               <div class="w3-col l2 m3"><img src="img/coding_2b.jpg" style="width:130px;"></div>
+               <div class="w3-col l2 m3"><img src="img/coding_2b.jpg" class="w3-round" style="width:130px;"></div>
                <div class="w3-col l10 m9">
                  <h4>STUDIES Process - <span class="w3-opacity w3-medium">April - May</span></h4>
-                 <p class="w3-justify"> I began working from home on 4/20/2020. Like all studies members, I was to learn Microsoft Teams and install it on my PC for an improved interaction with WCA during the 'work from home' period. Next we completed tutorials for MS OneNote, Excel, Word and PowerPoint. On 4/30/2020 I submitted my SOW for approval. On 5/1/2020 I began immersive studies for my proposed project. On 5/14/2020 I began cooking up the idea for a website to be presented.</p>
+                 <p class="w3-justify"> I began working from home on 4/20/2020. Like all studies members, I was to learn Microsoft Teams and install it on my PC for an improved interaction with WCA during the 'work from home' period. Next we completed tutorials for MS OneNote, Excel, Word and PowerPoint. On 4/30/2020  SOWs were submitted  for approval. On 5/1/2020 I began immersive studies for my proposed project. On 5/14/2020 I began cooking up the idea for a website to be presented.</p>
                </div>
             </div>
             <div class="w3-row w3-margin-bottom">
               <div class="w3-col l2 m3">
-                <img src="img/inf.jpg" style="width:130px;">
+                <img src="img/inf.jpg" class="w3-round" style="width:130px;">
               </div>
                <div class="w3-col l10 m9">
                 <h4>STUDIES Products -  <span class="w3-opacity w3-medium">mid - May</span></h4>
-                <p class="w3-justify"> So, this is a product in progress. It is what I have to show so far. Creating a website can truly be a multi-layered venture. This site was designed to have  cohesion and balance while considering the necessity for sites that are coded to be flexible and work better on handheld devices. </p>
+                <p class="w3-justify"> So, this is a product in progress. It is what I have to show so far. Creating a website can truly be a multi-layered venture. This site was designed to have  cohesion and balance while considering the necessity for sites that are coded to be flexible and work better on handheld devices. Like many website this is a project in process with more content to add adjusments to make and much more to learn about.</p>
               </div>
   			 </div>
              <hr>
              <p class="w3-center"><em>
 
-While you have been looking at my work this whole time, here's  some of the things that go on at the shop(s)..<br> 
+While you have been looking at my work this whole time, here's  some of what goes on at the shop(s)..<br> 
                Click on the images to make them bigger</em></p>
     <div class="w3-col m3">
       <img src="img/early_insp.jpg" style="width:98%" onclick="onClick(this)" class="w3-hover-opacity" alt="The early days of Inspection - daunting task at first. </br> (yes, there were many more monitors to be inspected 
@@ -173,19 +174,29 @@ While you have been looking at my work this whole time, here's  some of the thin
     <p class="w3-clear"></p>
           
           <!-- Example of comment field -->
-          <div id="demo3" style="display:none">
+          <div id="demo3" style="display:">
           <div class="w3-row-padding w3-center"><hr>
             <div class="w3-col m3"><img src="img/wah1.jpg" style="width:98%" onclick="onClick(this)" class="w3-hover-opacity" alt="Juggling elements of this website in the great and powerful Photoshop (and friends)"></div>
             <div class="w3-col m3"><img src="img/wfh.jpg" style="width:98%" onclick="onClick(this)" class="w3-hover-opacity" alt="Daily studies scene."></div>
-            <div class="w3-col m3"><img src="img/coding_2.jpg" style="width:98%" onclick="onClick(this)" class="w3-hover-opacity" alt="Empty ghost train"></div>
+            <div class="w3-col m3"><img src="img/wfh_2.jpg" style="width:98%" onclick="onClick(this)" class="w3-hover-opacity" alt="Sending my code to the webserver"></div>
             <div class="w3-col m3"><img src="img/coding_2.jpg" style="width:98%" onclick="onClick(this)" class="w3-hover-opacity" alt="Empty ghost train"></div>
           </div>
           <div class="w3-row-padding w3-center w3-section">
             <div class="w3-col m3"><img src="img/coding_2.jpg" style="width:98%" onclick="onClick(this)" class="w3-hover-opacity" alt="Empty ghost train"></div>
-            <div class="w3-col m3"><img src="img/coding_2.jpg" style="width:98%" onclick="onClick(this)" class="w3-hover-opacity" alt="Empty ghost train"></div>
+            <div class="w3-col m3"><img src="img/certs.jpg" style="width:98%" onclick="onClick(this)" class="w3-hover-opacity" alt="I've been real busy."></div>
             <div class="w3-col m3"><img src="img/Coding_1.jpg" style="width:98%" onclick="onClick(this)" class="w3-hover-opacity" alt="Empty ghost train"></div>
-            <div class="w3-col m3"><img src="img/inf_2.jpg" style="width:98%" onclick="onClick(this)" class="w3-hover-opacity" alt="Sailing"></div>
+            <div class="w3-col m3 w3-margin-bottom"><img src="img/inf_2.jpg" style="width:98%" onclick="onClick(this)" class="w3-hover-opacity" alt="An Aproach to the tasks at hand."></div>
           </div>
+                    <div id="demo3" style="display:">
+                      <div class="w3-row-padding w3-center w3-section">
+            <div class="w3-col m6 w3-large">
+              <p class="w3-justify">So this is what I've been up to at the <em>shop away from the shop</em>. </br>
+               This code you are looking at (displayed as content in your browser) currently resides on one of those free use servers for developers to test their web work etc. I do expect that the page won't be too fast, however I've tried to optimize things like we used to have to do in the the days of dial-up. Additionally, I'm not sure what kind of backend features they (heroku) have in place so I have set up things the message input fields in the contact page. Thanks for checking this out!</br>~V</p>
+            </div>
+            <div class="w3-col m6 w3-large">     
+            <div class="w3-col m12"><img src="img/wfh_2.jpg" style="width:100%" onclick="onClick(this)" class="w3-hover-opacity" alt="Sending my code to the webserver"></div></div>
+          </div>
+	</div>
 </div>
       
     <!-- END BLOG ENTRIES -->
