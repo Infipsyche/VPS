@@ -107,8 +107,8 @@
   </div>
 <!-- Container (Work Section) -->
 <div class="w3-content w3-container w3-padding-64 w3-card-4" id="work">
-  <h2 class="w3-center">MY WORK</h2>
-  <p class="w3-center"><em>While you have been looking at my work this whole time, here are some of the things that go on at the shop(s)..</em></p><br>
+  <h2 class="w3-center">WORK</h2>
+  <p class="w3-center"><em>Shifting from our normal routine to working from home on the STUDIES Program.</em></p><br>
 
   <!-- Responsive Grid. Four columns on tablets, laptops and desktops. Will stack on mobile devices/small screens (100% width) -->
 
@@ -119,7 +119,7 @@
               </div>
               <div class="w3-col l10 m9">
                 <h4>STUDIES Preliminary - <span class="w3-opacity w3-medium">April</span></h4>
-                <p class="w3-justify"> Well, there's always obstacles, and yet, I don't believe I've experienced a challenge here quite like 2020's Covid-19 pandemic. It was in response to this threat that the STUDIES Program was launched. Prior to beginning STUDIES,  employees worked onsite to wrap up what needed to be done before joining in on the 'stay at home' order.</p>
+                <p class="w3-justify"> Well, there's always obstacles, and yet, I don't believe I've experienced a challenge here quite like 2020's Covid-19 pandemic. It was in response to this threat that the STUDIES Program was launched. Prior to beginning STUDIES,  employees continued to work onsite to wrap up what needed to be done before joining in on the 'stay at home' order.</p>
               </div>
             </div>
              <div class="w3-row w3-margin-bottom">
@@ -135,11 +135,13 @@
               </div>
                <div class="w3-col l10 m9">
                 <h4>STUDIES Products -  <span class="w3-opacity w3-medium">mid - May</span></h4>
-                <p class="w3-justify"> So, this is a product in progress. It is what I have to show so far. Creating a website can truly be a multi-layered venture. This site is coded to be flexible and work better on handheld devices. Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.</p>
+                <p class="w3-justify"> So, this is a product in progress. It is what I have to show so far. Creating a website can truly be a multi-layered venture. This site was designed to have  cohesion and balance while considering the necessity for sites that are coded to be flexible and work better on handheld devices. </p>
               </div>
   			 </div>
              <hr>
-             <p class="w3-center"><em><br> 
+             <p class="w3-center"><em>
+
+While you have been looking at my work this whole time, here's  some of the things that go on at the shop(s)..<br> 
                Click on the images to make them bigger</em></p>
     <div class="w3-col m3">
       <img src="img/early_insp.jpg" style="width:98%" onclick="onClick(this)" class="w3-hover-opacity" alt="The early days of Inspection - daunting task at first. </br> (yes, there were many more monitors to be inspected 
@@ -262,14 +264,14 @@
 <img src="img/bkg4.jpg" class="w3-image w3-greyscale-0" style="width:100%">
 <!-- Footer -->
 <footer class="w3-container w3-black w3-padding-16">
-  <h3>STUDIES</h3>
+  <h3>WCA - STUDIES</h3>
   
-  <div style="position:relative;bottom:55px;" class="w3-tooltip w3-right">
+  <div style="position:relative;bottom:25px;" class="w3-tooltip w3-right">
     <span class="w3-text w3-theme-light w3-padding">Go To Top</span>&nbsp;   
     <a class="w3-text-white" href="#"><span class="w3-xlarge">
     <i class="fa fa-chevron-circle-up"></i></span></a>
   </div>
-  <p>&copy;Vis Helland 2020</p>
+  <p> &copy;Vis Helland 2020</p>
 </footer>
 <!-- End footer -->
 <script>
