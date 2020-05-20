@@ -11,7 +11,9 @@
  <style>
   body {font-family: "Lato", sans-serif}
   .mySlides {display: none}
- </style>
+ </style>  
+ <style type="text/css">
+p {text-indent: 12px;}</style>
  <body class="w3-light-grey">
 
 <!-- Navbar -->
@@ -54,7 +56,7 @@
     <img src="img/bkg2.jpg" style="width:100%">
     <div class="w3-display-bottommiddle w3-container w3-text-white w3-padding-32 w3-hide-small">
       <h3>In the swing</h3>
-      <p><b>Hang in there.</b></p>    
+      <p><b>Hang in there</b></p>    
     </div>
   </div>
   <div class="mySlides w3-display-container w3-center w3-card-4">
@@ -69,8 +71,8 @@
   <!-- The Plan Section -->
   <div class="w3-container w3-content w3-center w3-padding-64" style="max-width:800px" id="plan">
     <h2 class="w3-wide">THE PLAN</h2>
-    <p class="w3-opacity"><i>Work from Home</i></p>
-    <p class="w3-justify">	The STUDIES Program (Skills To learn Until the Depot Is Essentially Started) was  formed to best utilize the downtime caused by the COVID-19 pandemic and specifically the closure of the TJX Depot due to TJX’s worldwide closure of stores. It was the goal of the STUDIES Program to enhance the skills of all STUDIES members to make a more productive workforce when the Depot resumed normal operations. Membrers were asked to select a program project for approval by WCA that we the members, would work on potetially for 1 - 2 months.</p>
+    <p class="w3-opacity"><i>Work from Home </i>&nbsp;</p>
+    <p class="w3-justify" "text indent" >	The STUDIES Program (Skills To learn Until the Depot Is Essentially Started) was  formed to best utilize the downtime caused by the COVID-19 pandemic and specifically the closure of the TJX Depot due to TJX’s worldwide closure of stores. It was the goal of the STUDIES Program to enhance the skills of all STUDIES members to make a more productive workforce when the Depot resumed normal operations. Membrers were asked to select a program project for approval by WCA that we the members, would work on potetially for 1 - 2 months.</p>
     <p class="w3-justify">Prior to starting our individual Projects, all STUDIES members were requested to take
        on-line tutorials and courses for Microsoft Office modules which would be
     utilized as part of the STUDIES Program. First, members setup Microsoft Teams on their home computers and familiarized themselves with that and then took tutorials for Microsoft OneNote. Next we began our new relationship with GoSkills website to begin online tutorials for Microsoft Word, Exel and PowerPoint. During this time we prepared a &quot;statement of work&quot; document (SOW) that was to be the proposal for our chosen, individual project. </p>
@@ -117,25 +119,25 @@
              <div class="w3-row-padding w3-center w3-section">
               <div class="w3-row w3-margin-bottom"><hr>
               <div class="w3-col l2 m3">
-                <img src="img/cvn.jpg" class="w3-round" style="width:130px;"></div>
+                <img src="img/cvn.jpg" class="w3-circle w3-margin-right w3-card-4" style="width:130px;"></div>
               <div class="w3-col l10 m9">
-                <h4>STUDIES Preliminary - <span class="w3-opacity w3-medium">April</span></h4>
+                <h4>STUDIES Preliminary - <span class="w3-opacity w3-medium">April</span>&nbsp;</h4>
                   <p class="w3-justify"> Well, there's always obstacles, and yet, I don't believe I've experienced a challenge here quite like 2020's Covid-19 pandemic. It was in response to this threat that the STUDIES Program was launched. Prior to beginning STUDIES,  employees continued to work onsite to wrap up what needed to be done before joining in on the 'stay at home' order.</p>
               </div>
             </div>
              <div class="w3-row w3-margin-bottom">
-               <div class="w3-col l2 m3"><img src="img/coding_2b.jpg" class="w3-round" style="width:130px;"></div>
+               <div class="w3-col l2 m3"><img src="img/coding_2b.jpg" class="w3-circle w3-margin-right w3-card-4" style="width:130px;"></div>
                <div class="w3-col l10 m9">
-                 <h4>STUDIES Process - <span class="w3-opacity w3-medium">April - May</span></h4>
+                 <h4>STUDIES Process - <span class="w3-opacity w3-medium">April - May</span>&nbsp;</h4>
                  <p class="w3-justify"> I began working from home on 4/20/2020. Like all studies members, I was to learn Microsoft Teams and install it on my PC for an improved interaction with WCA during the 'work from home' period. Next we completed tutorials for MS OneNote, Excel, Word and PowerPoint. On 4/30/2020  SOWs were submitted  for approval. On 5/1/2020 I began immersive studies for my proposed project. On 5/14/2020 I began cooking up the idea for a website to be presented.</p>
                </div>
             </div>
             <div class="w3-row w3-margin-bottom">
               <div class="w3-col l2 m3">
-                <img src="img/inf.jpg" class="w3-round" style="width:130px;">
+                <img src="img/inf.jpg" class="w3-circle w3-margin-right w3-card-4" style="width:130px;">
               </div>
                <div class="w3-col l10 m9">
-                <h4>STUDIES Products -  <span class="w3-opacity w3-medium">mid - May</span></h4>
+                <h4>STUDIES Products -  <span class="w3-opacity w3-medium">mid - May</span>&nbsp;</h4>
                 <p class="w3-justify"> So, this is a product in progress. It is what I have to show so far. Creating a website can truly be a multi-layered venture. This site was designed to have  cohesion and balance while considering the necessity for sites that are coded to be flexible and work better on handheld devices. Like many website this is a project in process with more content to add adjusments to make and much more to learn about.</p>
               </div>
   			 </div>
@@ -179,22 +181,22 @@ While you have been looking at my work this whole time, here's  some of what goe
             <div class="w3-col m3"><img src="img/wah1.jpg" style="width:98%" onclick="onClick(this)" class="w3-hover-opacity" alt="Juggling elements of this website in the great and powerful Photoshop (and friends)"></div>
             <div class="w3-col m3"><img src="img/wfh.jpg" style="width:98%" onclick="onClick(this)" class="w3-hover-opacity" alt="Daily studies scene."></div>
             <div class="w3-col m3"><img src="img/wfh_2.jpg" style="width:98%" onclick="onClick(this)" class="w3-hover-opacity" alt="Sending my code to the webserver"></div>
-            <div class="w3-col m3"><img src="img/coding_2.jpg" style="width:98%" onclick="onClick(this)" class="w3-hover-opacity" alt="Empty ghost train"></div>
+            <div class="w3-col m3"><img src="img/wfh_3.jpg" style="width:98%" onclick="onClick(this)" class="w3-hover-opacity" alt="Re-send yet another update to the index page!"></div>
           </div>
           <div class="w3-row-padding w3-center w3-section">
-            <div class="w3-col m3"><img src="img/coding_2.jpg" style="width:98%" onclick="onClick(this)" class="w3-hover-opacity" alt="Empty ghost train"></div>
+            <div class="w3-col m3"><img src="img/Coding_1.jpg" style="width:98%" onclick="onClick(this)" class="w3-hover-opacity" alt="A daunting task at first"></div>
             <div class="w3-col m3"><img src="img/certs.jpg" style="width:98%" onclick="onClick(this)" class="w3-hover-opacity" alt="I've been real busy."></div>
-            <div class="w3-col m3"><img src="img/Coding_1.jpg" style="width:98%" onclick="onClick(this)" class="w3-hover-opacity" alt="Empty ghost train"></div>
+            <div class="w3-col m3"><img src="img/coding_2.jpg" style="width:98%" onclick="onClick(this)" class="w3-hover-opacity" alt="Empty ghost train"></div>
             <div class="w3-col m3 w3-margin-bottom"><img src="img/inf_2.jpg" style="width:98%" onclick="onClick(this)" class="w3-hover-opacity" alt="An Aproach to the tasks at hand."></div>
           </div>
                     <div id="demo3" style="display:">
                       <div class="w3-row-padding w3-center w3-section">
             <div class="w3-col m6 w3-large">
-              <p class="w3-justify">So this is what I've been up to at the <em>shop away from the shop</em>. </br>
-               This code you are looking at (displayed as content in your browser) currently resides on one of those free use servers for developers to test their web work etc. I do expect that the page won't be too fast, however I've tried to optimize things like we used to have to do in the the days of dial-up. Additionally, I'm not sure what kind of backend features they (heroku) have in place so I have set up things the message input fields in the contact page. Thanks for checking this out!</br>~V</p>
+              <p class="w3-justify"> So this is what I've been up to at the <em> shop away from the shop </em>. </p>
+              <p class="w3-justify">This code you are looking at (displayed as content in your browser) currently resides on one of those free use servers for developers to test their web work etc. I don't expect that the page will be too fast, however I've tried to optimize things like we used to have to do in the the days of dial-up. Additionally, I'm not sure what kind of backend features they (heroku) have in place so I have yet to set up things like the message input fields in the contact page. Thanks for checking this out! </br> ~V </p>
             </div>
             <div class="w3-col m6 w3-large">     
-            <div class="w3-col m12"><img src="img/wfh_2.jpg" style="width:100%" onclick="onClick(this)" class="w3-hover-opacity" alt="Sending my code to the webserver"></div></div>
+            <div class="w3-col m12"><img src="img/studies_mask.jpg" style="width:100%" onclick="onClick(this)" class="w3-hover-opacity" alt="Adapt And Overcome."></div></div>
           </div>
 	</div>
 </div>
@@ -239,7 +241,7 @@ While you have been looking at my work this whole time, here's  some of what goe
   <!-- The Contact Section -->
   <div class="w3-container w3-content w3-padding-64" style="max-width:800px" id="contact">
     <h2 class="w3-wide w3-center">CONTACT</h2>
-    <p class="w3-opacity w3-center"><i>Drop a note!</i></p>
+    <p class="w3-opacity w3-center"><i>Drop a note!</i>&nbsp;</p>
     <div class="w3-row w3-padding-32">
       <div class="w3-col m6 w3-large w3-margin-bottom">
         <i class="fa fa-map-marker" style="width:30px"></i> 1 Whalley Way, Southwick, Ma<br>
@@ -262,9 +264,9 @@ While you have been looking at my work this whole time, here's  some of what goe
       </div>
     </div>
     <div class="w3-row w3-padding-32"><div class="w3-large w3 w3-center w3-section">
-   		<a href="https://linkedin.com/company/whalley-computer-associates-inc/" target="_blank"><i class="fa fa-linkedin w3-hover-opacity"></i></a>
+   		<a href="https://linkedin.com/company/whalley-computer-associates-inc/" target="_blank"><i class="fa fa-linkedin w3-hover-opacity w3-margin-right"></i></a>
         <a href="https://twitter.com/wcabiz" target="_blank"><i class="fa fa-twitter w3-hover-opacity"></i></a>
-    	<a href="https://www.youtube.com/channel/UCU2zvcVGXI_CGVqaZH-fi4w" target="_blank"><i class="fa fa-youtube w3-hover-opacity"></i></a>
+    	<a href="https://www.youtube.com/channel/UCU2zvcVGXI_CGVqaZH-fi4w" target="_blank"><i class="fa fa-youtube w3-hover-opacity w3-margin-left"></i></a>
   	</div>
 </div>
   
@@ -272,17 +274,17 @@ While you have been looking at my work this whole time, here's  some of what goe
 </div>
 
 <!-- Image of location/map -->
-<img src="img/bkg4.jpg" class="w3-image w3-greyscale-0" style="width:100%">
+<img src="img/bkg4.jpg" class="w3-image w3-card-4" style="width:100%">
 <!-- Footer -->
 <footer class="w3-container w3-black w3-padding-16">
-  <h3>WCA - STUDIES</h3>
+  <h3>&nbsp;WCA - STUDIES</h3>
   
   <div style="position:relative;bottom:25px;" class="w3-tooltip w3-right">
     <span class="w3-text w3-theme-light w3-padding">Go To Top</span>&nbsp;   
     <a class="w3-text-white" href="#"><span class="w3-xlarge">
     <i class="fa fa-chevron-circle-up"></i></span></a>
   </div>
-  <p> &copy;Vis Helland 2020</p>
+  <p>&copy;Vis Helland 2020 - all rights reserved</p>
 </footer>
 <!-- End footer -->
 <script>
