@@ -72,10 +72,10 @@ p {text-indent: 12px;}</style>
   <div class="w3-container w3-content w3-center w3-padding-64" style="max-width:800px" id="plan">
     <h2 class="w3-wide">THE PLAN</h2>
     <p class="w3-opacity"><i>Work from Home </i>&nbsp;</p>
-    <p class="w3-justify" "text indent" >	The STUDIES Program (Skills To learn Until the Depot Is Essentially Started) was  formed to best utilize the downtime caused by the COVID-19 pandemic and specifically the closure of the TJX Depot due to TJX’s worldwide closure of stores. It was the goal of the STUDIES Program to enhance the skills of all STUDIES members to make a more productive workforce when the Depot resumed normal operations. Membrers were asked to select a program project for approval by WCA that we the members, would work on potetially for 1 - 2 months.</p>
-    <p class="w3-justify">Prior to starting our individual Projects, all STUDIES members were requested to take
-       on-line tutorials and courses for Microsoft Office modules which would be
-    utilized as part of the STUDIES Program. First, members setup Microsoft Teams on their home computers and familiarized themselves with that and then took tutorials for Microsoft OneNote. Next we began our new relationship with GoSkills website to begin online tutorials for Microsoft Word, Exel and PowerPoint. During this time we prepared a &quot;statement of work&quot; document (SOW) that was to be the proposal for our chosen, individual project. </p>
+    <p class="w3-justify" "text indent" >	The STUDIES Program (Skills To learn Until the Depot Is Essentially Started) was  formed to best utilize the downtime caused by the COVID-19 pandemic and specifically the closure of the TJX Depot due to TJX’s worldwide closure of stores. It was the goal of the STUDIES Program to enhance the skills of all STUDIES members and to make a more productive workforce when the Depot resumed normal operations. Membrers were asked to select a program project to be approved by WCA that we the members, would work on for potetially  1 - 2 months.</p>
+    <p class="w3-justify">Prior to starting our individual Projects, It  was requested that all STUDIES members take
+       on-line courses and  tutorials for Microsoft Office modules which would be
+    utilized as part of the STUDIES Program. First, members setup Microsoft Teams on their home computers and familiarized themselves with that and then took tutorials for Microsoft OneNote. Next we began our new relationship with the GoSkills website to begin online tutorials for Microsoft Word, Exel and PowerPoint. During this time we prepared a &quot;statement of work&quot; document (SOW) that was to be the proposal for our chosen, individual project. </p>
     <div class="w3-row w3-padding-32">
       <div class="w3-third">
         <p>Study!</p>
