@@ -152,7 +152,7 @@ While you have been looking at my work this whole time, here's  some of what goe
     </div>
 
     <div class="w3-col m3">
-      <img src="img/Image193.jpg" style="width:98%" onclick="onClick(this)" class="w3-hover-opacity" alt="Details can can be inportant. Details like 'this end up'.">
+      <img src="img/Image193.jpg" style="width:98%" onclick="onClick(this)" class="w3-hover-opacity" alt="Details can can be inportant - Details like 'this end up'.">
     </div>
 
     <div class="w3-col m3"><img src="img/dustbucket.jpg" style="width:98%" onclick="onClick(this)" class="w3-hover-opacity" alt="Some days require  a little more effort than others."></div>
@@ -164,7 +164,7 @@ While you have been looking at my work this whole time, here's  some of what goe
   <div class="w3-row-padding w3-center w3-section">
     <div class="w3-col m3"><img src="img/V-aud.jpg" style="width:98%" onclick="onClick(this)" class="w3-hover-opacity" alt="Audio repair performed on .wav files for TJX call buttons"></div>
 
-    <div class="w3-col m3"><img src="img/zoo.jpg" style="width:98%" onclick="onClick(this)" class="w3-hover-opacity" alt="Sometimes - you get thrown a <em>real</em> curvrball. "></div>
+    <div class="w3-col m3"><img src="img/zoo.jpg" style="width:98%" onclick="onClick(this)" class="w3-hover-opacity" alt="Sometimes - you get thrown a <em>real</em> curveball. "></div>
 
     <div class="w3-col m3"><img src="img/Coding_1.jpg" style="width:98%" onclick="onClick(this)" class="w3-hover-opacity" alt="A daunting task at first"></div>
     
