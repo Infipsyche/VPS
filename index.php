@@ -186,7 +186,7 @@ While you have been looking at my work this whole time, here's  some of what goe
           <div class="w3-row-padding w3-center w3-section">
             <div class="w3-col m3"><img src="img/Coding_1.jpg" style="width:98%" onclick="onClick(this)" class="w3-hover-opacity" alt="A daunting task at first"></div>
             <div class="w3-col m3"><img src="img/certs.jpg" style="width:98%" onclick="onClick(this)" class="w3-hover-opacity" alt="I've been real busy."></div>
-            <div class="w3-col m3"><img src="img/coding_2.jpg" style="width:98%" onclick="onClick(this)" class="w3-hover-opacity" alt="Empty ghost train"></div>
+            <div class="w3-col m3"><img src="img/coding_2.jpg" style="width:98%" onclick="onClick(this)" class="w3-hover-opacity" alt="Keep going and don't get even one character wrong..."></div>
             <div class="w3-col m3 w3-margin-bottom"><img src="img/inf_2.jpg" style="width:98%" onclick="onClick(this)" class="w3-hover-opacity" alt="An Aproach to the tasks at hand."></div>
           </div>
                     <div id="demo3" style="display:">
