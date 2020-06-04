@@ -27,7 +27,7 @@ p {text-indent: 12px;}</style>
     <div class="w3-dropdown-hover w3-hide-small">
     <button class="w3-button" title="Notifications">Additional<i class="fa fa-caret-down"></i></button>     
     <div class="w3-dropdown-content w3-card-4 w3-bar-block">
-      <a href="#" class="w3-bar-item w3-button">More</a>
+      <a href="soon.html" class="w3-bar-item w3-button">More</a>
       <a href="#" class="w3-bar-item w3-button">coming</a>
       <a href="#" class="w3-bar-item w3-button">soon!</a>
     </div>
