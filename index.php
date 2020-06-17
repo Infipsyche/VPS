@@ -20,16 +20,14 @@ p {text-indent: 12px;}</style>
 <div class="w3-top">
  <div class="w3-bar w3-black w3-card w3-left-align">
   <a class="w3-bar-item w3-button w3-hide-medium w3-hide-large w3-right w3-hover-white w3-theme-d2" href="javascript:void(0);" onclick="openNav()"><i class="fa fa-bars"></i></a>
-  <a href="index.html" class="w3-bar-item w3-button w3-teal"><i class="fa fa-home w3-margin-right"></i>STUDIES</a>
+  <a href="index.php" class="w3-bar-item w3-button w3-teal"><i class="fa fa-home w3-margin-right"></i>STUDIES</a>
     <a href="#plan" class="w3-bar-item w3-button w3-hide-small w3-hover-white">PLAN</a>
     <a href="#work" class="w3-bar-item w3-button w3-hide-small w3-hover-white">WORK</a>
     <a href="#contact" class="w3-bar-item w3-button w3-hide-small w3-hover-white">CONTACT</a>
     <div class="w3-dropdown-hover w3-hide-small">
     <button class="w3-button" title="Notifications">Additional<i class="fa fa-caret-down"></i></button>     
     <div class="w3-dropdown-content w3-card-4 w3-bar-block">
-      <a href="index.php" class="w3-bar-item w3-button">More</a>
-      <a href="#" class="w3-bar-item w3-button">coming</a>
-      <a href="#" class="w3-bar-item w3-button">soon!</a>
+      <a href="craft.html" class="w3-bar-item w3-button">More!</a>
     </div>
   </div>
   <a href="#" class="w3-bar-item w3-button w3-hide-small w3-right w3-hover-teal" title="Search"><i class="fa fa-search"></i></a>
